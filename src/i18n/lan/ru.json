@@ -1,0 +1,20 @@
+{
+  "title": {
+    "Welcome to React": "Добро пожаловать в React и react-i18next",
+    "Welcome to React1": "Добро пожаловать в React и react-i18next",
+    "signature": "Подпись",
+    "welcome to signature": "Добро пожаловать в Signature",
+    "log into access": "Войдите, чтобы получить доступ к платформе",
+    "required": "Обязательно",
+    "condition of us": "принимаю общие условия использования",
+    "validate": "подтвердить"
+  },
+  "form": {
+    "email": "электронная почта",
+    "password": "пароль",
+    "login": "войти"
+  },
+  "folder": {
+    "new-folder": "Новая папка"
+  }
+}

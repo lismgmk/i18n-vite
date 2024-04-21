@@ -20,6 +20,11 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "include": ["src", "src/i18n"],
+  "references": [{ "path": "./tsconfig.node.json" }],
+  "ts-node": {
+    "experimentalSpecifierResolution": "node",
+    "transpileOnly": true,
+    "esm": true
+  }
 }
